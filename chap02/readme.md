@@ -1,0 +1,1 @@
+. script.sh  # 在当前shell执行脚本，注意与 sh script.sh的区别
